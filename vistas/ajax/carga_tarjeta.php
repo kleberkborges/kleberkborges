@@ -1,0 +1,2 @@
+		<label for="numero_comprobante">Nº de Comprobante</label>
+		<input type="text" class="form-control" pattern="^[\w-]{4,}$" title="Ingresa solo caracteres alfanuméricos" autocomplete="off" id="numero_comprobante" required name="numero_comprobante" tabindex="3">

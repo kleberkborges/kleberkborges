@@ -1,0 +1,12 @@
+{
+    "name": "diaz/sistema",
+    "authors": [
+        {
+            "name": "David Diaz",
+            "email": "daviddiaz664@gmail.com"
+        }
+    ],
+    "require": {
+        "luecano/numero-a-letras": "^2.1"
+    }
+}
